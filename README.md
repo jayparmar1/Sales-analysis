@@ -16,3 +16,9 @@ Following are the steps have performed
 3. Data visualization- 1. State wise sales analysis on the groups
                        2. group wise sales analysis on the states
                        3. Time-Sales analysis 
+# Getting started 
+To run this notebook locally
+
+  1. Clone this repository
+     
+      git clone https://github.com/yourusername/Sales-Analysis.git  
