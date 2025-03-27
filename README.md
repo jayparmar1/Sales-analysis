@@ -7,4 +7,5 @@ Following are the steps have performed
                     3. Also performed a groupby() function on the dataset
 2. Data Analysis - 1. Performed descriptive statistical analysis on the dataset to find the Mean, Median and Standard Deviation
                    2. Generated the weekly, monthly and Quaterly reports.
-3. Data visualization- 
+3. Data visualization- 1. State wise sales analysis on the groups
+                       2. group wise sales analysis on the states
