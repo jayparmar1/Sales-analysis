@@ -1,4 +1,10 @@
-# Sales-analysis
+# Sales-analysis: Clothing Business in Australia
+
+
+# Tools & Technologies
+* Python Libraries: Pandas, NumPy, Matplotlib/Seaborn, Scikit-learn
+* Data Sources: Sales transaction data 
+* Methods: Data wrangling, data-analysis, data Visualization
 
 Have Performed a Basic Pre-Processing steps on the sales data of the welwell-known brand in Australia, particularly recognized for its clothing business.
 Following are the steps have performed
