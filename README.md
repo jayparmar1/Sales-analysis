@@ -6,6 +6,7 @@
 * Data Sources: Sales transaction data 
 * Methods: Data wrangling, data-analysis, data Visualization
 
+# Overview
 Have Performed a Basic Pre-Processing steps on the sales data of the welwell-known brand in Australia, particularly recognized for its clothing business.
 Following are the steps have performed
 1. Data Wrangling - 1. Have checked for null values, duplicates values.
