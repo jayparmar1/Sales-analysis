@@ -9,3 +9,4 @@ Following are the steps have performed
                    2. Generated the weekly, monthly and Quaterly reports.
 3. Data visualization- 1. State wise sales analysis on the groups
                        2. group wise sales analysis on the states
+                       3. Time-Sales analysis 
