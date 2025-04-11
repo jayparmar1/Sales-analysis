@@ -22,4 +22,4 @@ To run this notebook locally
 
   1. Clone this repository
      
-      git clone https://github.com/yourusername/Sales-Analysis.git  
+      git clone https://github.com/jayparmar1/Sales-Analysis.git  
